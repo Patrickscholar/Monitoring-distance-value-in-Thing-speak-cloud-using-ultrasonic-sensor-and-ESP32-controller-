@@ -99,7 +99,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
  
 # PROGRAM:
-'''
+```
 #include "ThingSpeak.h"
 #include <WiFi.h>
 
@@ -152,7 +152,7 @@ void loop()
   ThingSpeak.writeField(myChannelField, ChannelField, distanceCM, myWriteAPIKey);
   delay(1000);
 }
-'''
+```
 # CIRCUIT DIAGRAM:
 
 ![WhatsApp Image 2024-12-24 at 10 36 29](https://github.com/user-attachments/assets/9983b5aa-814c-4e95-beb9-60c24c1cd1e8)
