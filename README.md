@@ -1,6 +1,6 @@
 ### NAME: V. Patrick Alex Emmanuel
 ### REG NO: 24900019
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# EXPERIMENT 6 - Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
